@@ -1,0 +1,28 @@
+name: OptionsLP
+favicon: null
+layout_spectrum: 0.32216006331145763
+typography_spectrum: 0.9424041907768697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5297751405742019
+  lightness: 0.7480963601265103
+  saturation: 0.0447353720664978
+  rhythmicContrast: 0.441311007598415
+purpose: []
